@@ -1,1 +1,1 @@
-﻿# Real-time-location-with-React-Native..
+﻿# Real-time location with React-Native.
